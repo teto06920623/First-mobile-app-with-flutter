@@ -27,9 +27,5 @@ This project showcases the ability to build stateless layouts, use custom fonts,
   </tr>
 </table>
 
-
-
-*(Replace the link above with a screenshot of your actual app)*
-
 ---
 *Developed by Taha Alrefaey | CS Student at Horus University*
