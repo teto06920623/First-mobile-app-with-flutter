@@ -1,16 +1,29 @@
-# besnes_card_taha
+# 🆔 Personal Business Card App (MiCard)
 
-A new Flutter project.
+A professional, digital business card application built with **Flutter**.
+This project showcases the ability to build stateless layouts, use custom fonts, and organize UI elements using `Rows`, `Columns`, and `Cards`.
 
-## Getting Started
+## 📱 Live Demo
+*(Optional: If you deployed it to web, put the link here. If not, you can remove this section)*
+[👉 Click Here to View](YOUR_WEB_LINK_HERE)
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- **Profile Section:** Displays a circular profile image (`CircleAvatar`).
+- **Typography:** Uses custom fonts (e.g., *Pacifico* or *Source Sans*) for a stylish look.
+- **Contact Info:** Neat cards displaying phone number and email address using `ListTile`.
+- **Responsive Layout:** Centers content and adapts to screen sizes.
+- **Material Design:** clean and minimalist aesthetic.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
+- **Framework:** Flutter
+- **Language:** Dart
+- **Widgets Used:** `SafeArea`, `Column`, `Card`, `ListTile`, `CircleAvatar`.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
+| App Interface |
+|:---:|
+| <img src="https://via.placeholder.com/300x600.png?text=Business+Card+Screenshot" width="250" /> |
+*(Replace the link above with a screenshot of your actual app)*
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+*Developed by Taha Alrefaey | CS Student at Horus University*
