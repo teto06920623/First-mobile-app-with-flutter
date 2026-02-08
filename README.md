@@ -21,8 +21,14 @@ This project showcases the ability to build stateless layouts, use custom fonts,
 
 ## 📸 Screenshots
 | App Interface |
-|:---:|
-| <img src="https://via.placeholder.com/300x600.png?text=Business+Card+Screenshot" width="250" /> |
+<table>
+  <tr>
+    <td style="border: none;"><img src="https://github.com/user-attachments/assets/92777e63-db29-4fb1-bde3-26ecb204e0f7" width="300" /></td>
+  </tr>
+</table>
+
+
+
 *(Replace the link above with a screenshot of your actual app)*
 
 ---
